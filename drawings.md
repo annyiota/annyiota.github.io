@@ -2,12 +2,12 @@
 
 ## Πάντα
 
-![](imgs/panda01.png)
+![drawing of a panda eating a bamboo](imgs/panda01.png)
 
-![](imgs/panda02.jpg)
+![pencil drawing of a baby panda inside a cup](imgs/panda02.jpg)
 
 ## Μονόκεροι
 
-![](imgs/unicorn01.jpg)
+![colour drawing of a unicorn](imgs/unicorn01.jpg)
 
-![](imgs/unicorn02.jpg)
+![drawing of a white and pink unicorn](imgs/unicorn02.jpg)
