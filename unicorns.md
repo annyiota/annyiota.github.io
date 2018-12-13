@@ -7,6 +7,6 @@
 ![](imgs/uni05.jpg)
 ![](imgs/uni06.jpg)
 ![](imgs/uni07.jpg)
-![](imgs/uni08.png)
+![](imgs/uni08.jpg)
 
 [<--](main.md)
