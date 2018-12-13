@@ -4,7 +4,7 @@
 
 * [Tea for unicorns]()
 
-* [Word for now]()
+* [Word for now](msword.md)
 
 
 [![](imgs/smurfette.png)](index.md)
