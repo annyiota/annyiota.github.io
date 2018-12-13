@@ -6,4 +6,4 @@
 
 * [Word for now]()
 
-[<--](index.md)
+[![](smurfette.png)](index.md)
