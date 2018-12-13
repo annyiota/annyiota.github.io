@@ -3,5 +3,5 @@
 ## Τη μοναδική ιστοσελίδα που χρησιμοποιεί
 ## _Cupcakes_ αντί για _Cookies!_
 
-![Ζωγραφιά cupcake με το κείμενο 'Τα cupcakes είναι muffins που πίστεψαν στα θαύματα'](imgs/cupcakes.jpg)
+[![Ζωγραφιά cupcake με το κείμενο 'Τα cupcakes είναι muffins που πίστεψαν στα θαύματα'. Κλικ για την κεντρική σελίδα περιεχομένων](imgs/cupcakes.jpg)](main.md)
 
