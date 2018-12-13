@@ -1,8 +1,8 @@
 #  Έχουμε ετοιμάσει...
 
-* [Καφέ για πάντα]()
+* [Καφέ για πάντα](pandas.md)
 
-* [Tea for unicorns]()
+* [Tea for unicorns](unicorns.md)
 
 * [Word for now](msword.md)
 
