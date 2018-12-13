@@ -6,7 +6,8 @@
 ![](imgs/pan04.jpg)
 ![](imgs/pan05.jpg)
 ![](imgs/pan06.jpg)
-![](imgs/pan07.jpg)
 ![](imgs/pan08.png)
+![](imgs/pan07.jpg)
+
 
 [<--](main.md)
